@@ -1,0 +1,3 @@
+[submodule "BEElink"]
+	path = BEElink
+	url = https://github.com/Madour/BEElink
